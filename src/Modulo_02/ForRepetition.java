@@ -1,3 +1,5 @@
+package Modulo_02;
+
 public class ForRepetition {
     public static void main(String[] args) {
 
