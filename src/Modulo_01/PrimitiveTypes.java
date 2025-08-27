@@ -1,3 +1,5 @@
+package Modulo_01;
+
 public class PrimitiveTypes {
     public static void main(String[] args) {
         // Tipos inteiros
